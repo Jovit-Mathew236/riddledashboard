@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/riddledashboard/static/css/main.414e8376.css",
+    "main.js": "/riddledashboard/static/js/main.afc9bd2a.js",
+    "index.html": "/riddledashboard/index.html",
+    "main.414e8376.css.map": "/riddledashboard/static/css/main.414e8376.css.map",
+    "main.afc9bd2a.js.map": "/riddledashboard/static/js/main.afc9bd2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.414e8376.css",
+    "static/js/main.afc9bd2a.js"
+  ]
+}
